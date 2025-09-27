@@ -18,4 +18,4 @@ If you want you can find the **official changelog here.**
 - Whitty985playz - Maintainer
 - Le Castle Vania - Music
 - Andrzej - SER Maintainer
-- 
+- Rysik5318 - [Audio Player](https://github.com/Edren-Baton-Team/AudioPlayer/releases) Maintainer
