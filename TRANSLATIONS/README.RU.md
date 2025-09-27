@@ -14,7 +14,7 @@
 	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
 
 
-- Возьмите аудиофайл из **_Audio** и поместите его в **Audio Directory*.
+- Возьмите аудиофайл из **_Audio** и поместите его в **Audio Directory**.
 
 	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
 
