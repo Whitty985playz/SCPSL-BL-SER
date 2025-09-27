@@ -10,6 +10,21 @@ If you want you can find the **official changelog here.**
 
 ## INSTALLATION
 
+- Take the text files in **_Scripts** and put them in your **SER Scripts Directory.**
+
+	**DEDICATED SERVER:** *~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/*
+
+	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
+
+
+- Take the audio file in **_Audio** and put it in your **Audio Directory*.
+
+	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
+
+	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\EXILED\Plugins\audio*
+
+
+- Soft restart your server(if online) and you should see the command "blacklight" if done correctly.
 
 ---
 
