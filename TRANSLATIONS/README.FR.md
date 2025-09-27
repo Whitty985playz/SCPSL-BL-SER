@@ -2,6 +2,7 @@
 **Blacklight Insurgency** pour Scripted Events Reloaded est la version complète et *officielle* de **No More Foundation.** Cela signifie qu'il fonctionne exactement comme No More Foundation... En quelque sorte...
 
 *JOURNAL DES MODIFICATIONS OFFICIEL*
+
 ---
 
 ## INSTALLATION
