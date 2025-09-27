@@ -17,7 +17,7 @@ If you want you can find the **official changelog here.**
 	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
 
 
-- Take the audio file in **_Audio** and put it in your **Audio Directory*.
+- Take the audio file in **_Audio** and put it in your **Audio Directory**.
 
 	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
 
