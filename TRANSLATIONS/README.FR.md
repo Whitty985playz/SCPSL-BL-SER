@@ -20,7 +20,7 @@
 	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\EXILED\Plugins\audio*
 
 
-- Redémarrez votre serveur (s'il est en ligne) et vous devriez voir la commande « blacklight » si tout s'est déroulé correctement.
+- Redémarrez votre serveur (s'il est en ligne) et vous devriez voir la commande "blacklight" si tout s'est déroulé correctement.
 
 ---
 
