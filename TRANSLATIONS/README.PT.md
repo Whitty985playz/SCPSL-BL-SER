@@ -1,33 +1,44 @@
 # 🌙 | BLACKLIGHT INSURGENCY
-**Blacklight Insurgency** para Scripted Events Reloaded é a recodificação completa e *oficial* do **No More Foundation.** Isto significa que também funciona exatamente da mesma forma que o No More Foundation... Mais ou menos...
+**Blacklight Insurgency** para Scripted Events Reloaded é a recodificação completa e *oficial* de **No More Foundation.** Isto significa que também funciona exatamente da mesma forma que No More Foundation... Mais ou menos...
 
-*LISTA OFICIAL DE ALTERAÇÕES*
+O changelog oficial pode ser encontrado em [**Lançamentos**.](https://github.com/Whitty985playz/SCPSL-BL-SER/releases)
 
 ---
 
-## INSTALAÇÃO
+## 📘 | INSTALAÇÃO
 
 - Pegue os ficheiros de texto em **_Scripts** e coloque-os no seu **Diretório de Scripts SER.**
 
-	**DEDICATED SERVER:** *~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/*
+	**SERVIDOR DEDICADO:** *`~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/`*
 
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
-
-
-- Pegue o ficheiro de áudio em **_Áudio** e coloque-o no seu **Diretório de Áudio**.
-
-	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
-
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\EXILED\Plugins\audio*
+	**HOST LOCAL:** *`C:\Users\[USUÁRIO]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded`*
 
 
-- Reinicie o servidor (se estiver online) e deverá ver o comando "blacklight" se tiver feito tudo corretamente.
+- Crie um diretório **`audio`** na sua pasta LabAPI.
+
+	**SERVIDOR DEDICADO:** *`~/.config/SCP Secret Laboratory/LabAPI/`*
+
+    **HOST LOCAL:** *`C:\Users\[USUÁRIO]\AppData\Roaming\SCP Secret Laboratory\LabAPI\`*
+
+- Pegue o ficheiro de áudio em **_Audio** e coloque-o no **Diretório Audio** recém-criado.
+
+	**SERVIDOR DEDICADO:** *`~/.config/SCP Secret Laboratory/LabAPI/audio`*
+
+    **HOST LOCAL:** *`C:\Users\[USUÁRIO]\AppData\Roaming\SCP Secret Laboratory\LabAPI\audio`*
+
+
+- Reinicie o seu servidor (se estiver online) e deverá ver o comando “blacklight” se tiver feito tudo corretamente.
 
 ---
 
-## Credits:
+## 🌟 | Créditos:
 
-- Whitty985playz - Maintainer
-- Le Castle Vania - Music
-- Andrzej - SER Maintainer
-- Rysik5318 - [Audio Player](https://github.com/Edren-Baton-Team/AudioPlayer/releases) Maintainer
+- Whitty985playz - Mantenedor
+- Le Castle Vania - Música
+- Andrzej - Mantenedor SER
+
+---
+
+## 💬 | Diversos
+- Scripted Events Reloaded versão: 0.10.0
+- Blacklight Insurgency Versão: INDISPONÍVEL
