@@ -1,33 +1,44 @@
 # 🌙 | BLACKLIGHT INSURGENCY
 **Blacklight Insurgency** pour Scripted Events Reloaded est la version complète et *officielle* de **No More Foundation.** Cela signifie qu'il fonctionne exactement comme No More Foundation... En quelque sorte...
 
-*JOURNAL DES MODIFICATIONS OFFICIEL*
+Le journal des modifications officiel se trouve dans [**Releases**.](https://github.com/Whitty985playz/SCPSL-BL-SER/releases)
 
 ---
 
-## INSTALLATION
+## 📘 | INSTALLATION
 
 - Prenez les fichiers texte dans **_Scripts** et placez-les dans votre **répertoire SER Scripts.**
 
-	**DEDICATED SERVER:** *~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/*
+	**SERVEUR DÉDIÉ :** *`~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/`*
 
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
-
-
-- Prenez le fichier audio dans **_Audio** et placez-le dans votre **répertoire Audio*.
-- 
-	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
-
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\EXILED\Plugins\audio*
+	**HÔTE LOCAL :** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded`*
 
 
-- Redémarrez votre serveur (s'il est en ligne) et vous devriez voir la commande "blacklight" si tout s'est déroulé correctement.
+- Créez un répertoire **`audio`** dans votre dossier LabAPI.
+
+	**SERVEUR DÉDIÉ :** *`~/.config/SCP Secret Laboratory/LabAPI/`*
+
+    **HÔTE LOCAL :** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\`*
+
+- Prenez le fichier audio dans **_Audio** et placez-le dans le **répertoire Audio** nouvellement créé.
+
+	**SERVEUR DÉDIÉ :** *`~/.config/SCP Secret Laboratory/LabAPI/audio`*
+
+    **HÔTE LOCAL :** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\audio`*
+
+
+- Redémarrez votre serveur (s'il est en ligne) et vous devriez voir la commande « blacklight » si tout s'est déroulé correctement.
 
 ---
 
-## Credits:
+## 🌟 | Crédits :
 
-- Whitty985playz - Maintainer
-- Le Castle Vania - Music
-- Andrzej - SER Maintainer
-- Rysik5318 - [Audio Player](https://github.com/Edren-Baton-Team/AudioPlayer/releases) Maintainer
+- Whitty985playz - Responsable de la maintenance
+- Le Castle Vania - Musique
+- Andrzej - Responsable de la maintenance SER
+
+---
+
+## 💬 | Divers
+- Scripted Events Reloaded version : 0.10.0
+- Blacklight Insurgency Version : INDISPONIBLE
