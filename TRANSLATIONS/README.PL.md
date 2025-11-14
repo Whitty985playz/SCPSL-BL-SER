@@ -1,33 +1,44 @@
 # 🌙 | BLACKLIGHT INSURGENCY
-**Blacklight Insurgency** dla Scripted Events Reloaded to kompletna i *oficjalna* przeróbka **No More Foundation.** Oznacza to, że działa dokładnie tak samo jak No More Foundation... No, prawie...
+**Blacklight Insurgency** dla Scripted Events Reloaded to kompletna i *oficjalna* wersja **No More Foundation.** Oznacza to, że działa dokładnie tak samo jak No More Foundation... No, prawie...
 
-*OFICJALNA LISTA ZMIAN*
-
----
-
-## INSTALACJA
-
-- Pobierz pliki tekstowe z katalogu **_Scripts** i umieść je w katalogu **SER Scripts Directory.**
-
-	**DEDICATED SERVER:** *~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/*
-
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded*
-
-
-- Pobierz plik audio z folderu **_Audio** i umieść go w folderze **Audio Directory**.
-
-	**DEDICATED SERVER:** *~/.config/EXILED/Plugins/audio/*
-
-	**LOCAL HOST:** *C:\Users\\[USER]\AppData\Roaming\EXILED\Plugins\audio*
-
-
-- Uruchom ponownie serwer (jeśli jest online) i jeśli wszystko przebiegło poprawnie, powinno pojawić się polecenie „blacklight”.
+Oficjalny dziennik zmian można znaleźć w [**Wydaniach**.](https://github.com/Whitty985playz/SCPSL-BL-SER/releases)
 
 ---
 
-## Credits:
+## 📘 | INSTALACJA
 
-- Whitty985playz - Maintainer
-- Le Castle Vania - Music
-- Andrzej - SER Maintainer
-- Rysik5318 - [Audio Player](https://github.com/Edren-Baton-Team/AudioPlayer/releases) Maintainer
+- Weź pliki tekstowe z **_Scripts** i umieść je w **katalogu skryptów SER.**
+
+	**SERWER DEDYKOWANY:** *`~/.config/SCP Secret Laboratory/LabAPI/configs/Scripted Events Reloaded/`*
+
+	**LOKALNY HOST:** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\configs\Scripted Events Reloaded`*
+
+
+- Utwórz katalog **`audio`** w folderze LabAPI.
+
+	**SERWER DEDYKOWANY:** *`~/.config/SCP Secret Laboratory/LabAPI/`*
+
+    **HOST LOKALNY:** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\`*
+
+- Przenieś plik audio z katalogu **_Audio** do nowo utworzonego katalogu **Audio Directory**.
+
+	**SERWER DEDYKOWANY:** *`~/.config/SCP Secret Laboratory/LabAPI/audio`*
+
+    **HOST LOKALNY:** *`C:\Users\[USER]\AppData\Roaming\SCP Secret Laboratory\LabAPI\audio`*
+
+
+- Uruchom ponownie serwer (jeśli jest online) i jeśli wszystko zostało wykonane poprawnie, powinno pojawić się polecenie „blacklight”.
+
+---
+
+## 🌟 | Podziękowania:
+
+- Whitty985playz – opiekun
+- Le Castle Vania – muzyka
+- Andrzej – opiekun SER
+
+---
+
+## 💬 | Różne
+- Scripted Events Reloaded wersja: 0.10.0
+- Blacklight Insurgency wersja: NIEDOSTĘPNA
