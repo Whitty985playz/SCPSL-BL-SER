@@ -41,4 +41,4 @@ Le journal des modifications officiel se trouve dans [**Releases**.](https://git
 
 ## 💬 | Divers
 - Scripted Events Reloaded version : 0.10.0
-- Blacklight Insurgency Version : INDISPONIBLE
+- Blacklight Insurgency Version : 1.0.0
