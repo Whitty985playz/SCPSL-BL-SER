@@ -41,4 +41,4 @@ Oficjalny dziennik zmian można znaleźć w [**Wydaniach**.](https://github.com/
 
 ## 💬 | Różne
 - Scripted Events Reloaded wersja: 0.10.0
-- Blacklight Insurgency wersja: NIEDOSTĘPNA
+- Blacklight Insurgency wersja: 1.0.0
