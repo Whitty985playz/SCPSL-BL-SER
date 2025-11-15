@@ -41,4 +41,4 @@ O changelog oficial pode ser encontrado em [**Lançamentos**.](https://github.co
 
 ## 💬 | Diversos
 - Scripted Events Reloaded versão: 0.10.0
-- Blacklight Insurgency Versão: INDISPONÍVEL
+- Blacklight Insurgency Versão: 1.0.0
