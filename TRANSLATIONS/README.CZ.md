@@ -41,4 +41,4 @@ Oficiální seznam změn najdete v [**Releases**.](https://github.com/Whitty985p
 
 ## 💬 | Různé
 - Scripted Events Reloaded verze: 0.10.0
-- Blacklight Insurgency verze: NEDOSTUPNÁ
+- Blacklight Insurgency verze: 1.0.0
