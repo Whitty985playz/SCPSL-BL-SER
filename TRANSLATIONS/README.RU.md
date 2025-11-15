@@ -41,4 +41,4 @@
 
 ## 💬 | Misclaneous
 - Scripted Events Reloaded версия: 0.10.0
-- Blacklight Insurgency Версия: UNAVAILABLE
+- Blacklight Insurgency Версия: 1.0.0
