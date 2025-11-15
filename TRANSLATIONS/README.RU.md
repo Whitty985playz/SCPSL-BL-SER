@@ -39,6 +39,6 @@
 
 ---
 
-## 💬 | Misclaneous
+## 💬 | Miscellaneous
 - Scripted Events Reloaded версия: 0.10.0
 - Blacklight Insurgency Версия: 1.0.0
