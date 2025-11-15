@@ -42,6 +42,6 @@ The official changelog can be found in [**Releases**.](https://github.com/Whitty
 
 ---
 
-## 💬 | Misclaneous
+## 💬 | Miscellaneous
 - Scripted Events Reloaded version: 0.10.0
 - Blacklight Insurgency Version: 1.0.0
